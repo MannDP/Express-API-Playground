@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/mann/.cache/gnome-builder/install/REST_Express/host
+app-id=
+postbuild=
+prebuild=
+default=true
